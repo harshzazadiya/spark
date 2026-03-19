@@ -1,0 +1,4 @@
+.venv
+.env
+qr_codes/
+__pycache__
